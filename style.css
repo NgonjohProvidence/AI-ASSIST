@@ -4,3 +4,14 @@ h1{
     font-size: 20px;
 
 }
+nav{
+    background-color: #197e00;
+    padding: 10px;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
