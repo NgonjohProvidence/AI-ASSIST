@@ -4,3 +4,21 @@ h1{
     font-size: 20px;
 
 }
+nav{
+    background-color: #197e00;
+    padding: 10px;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    margin: 0 15px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+
+}
